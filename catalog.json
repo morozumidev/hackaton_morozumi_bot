@@ -1,0 +1,17 @@
+{
+  "name": "Barbería Morozumi",
+  "description": "Barbería de demostración para el proyecto de clase. Atiende un barbero por horario.",
+  "services": {
+    "corte": "Corte de cabello, 30 minutos, $150 MXN",
+    "barba": "Arreglo de barba, 30 minutos, $100 MXN",
+    "corte_barba": "Corte y arreglo de barba, 30 minutos, $220 MXN"
+  },
+  "faq": {
+    "duracion": "Cada cita ocupa 30 minutos. Los horarios disponibles son los que devuelve la agenda.",
+    "costo": "Los precios del catálogo son ficticios para la entrega de clase. El bot no realiza cobros; en el caso de uso el pago es en el local.",
+    "ubicacion": "Es una barbería ficticia para la demostración académica; no tiene dirección comercial real.",
+    "requisitos": "Elige servicio y horario. No necesitas enviar nombre completo, documentos ni datos de pago.",
+    "cancelacion": "Puedes tener una cita activa. Escribe CANCELAR CITA para cancelarla, o DESCARTAR para descartar una propuesta aún sin confirmar.",
+    "privacidad": "Guardamos temporalmente la conversación y tu reserva para atenderte. OLVIDAR borra la memoria y la propuesta, pero conserva la cita. PRIVACIDAD explica el tratamiento de datos."
+  }
+}
